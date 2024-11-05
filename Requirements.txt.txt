@@ -1,0 +1,4 @@
+﻿Pandas
+Streamlist
+Seaborn
+plotly
